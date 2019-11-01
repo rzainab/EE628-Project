@@ -5,6 +5,6 @@ Deep learning methods have recently achieved great empirical success on machine 
 # Method
 Using deep neural network (RNN, LSTM, VAE) to train a model and using it to generate sample output.
 # Dataset
-Dataset would be scrapped from reddit using praw.
+Dataset would be scrapped from reddit using Python Wrapper PRAW.
 # Reference
 https://research.google.com/seedbank/seed/generate_shakespeare_using_tfkeras
